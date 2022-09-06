@@ -30,3 +30,6 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avdhoot-Kurhe&show_icons=true&locale=en&layout=compact" alt="Avdhoot" /></p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avdhoot-kurhe&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/></p>
