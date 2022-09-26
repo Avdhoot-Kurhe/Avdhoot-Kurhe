@@ -13,9 +13,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/avdhoot-kurhe-2669571a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Avdhoot Kurhe" height="30" width="40" /></a>
-  <a href="https://mobile.twitter.com/ErKurhe" target="blank"><img align="center" src="https://cdn1.myassignmenthelp.com/lazyload-assets/blog/db167cea3aff95477fc557debc3488d4.svg" alt="Avdhoot Kurhe" height="30" width="40" /></a>
-  <a href="https://instagram.com/avdhoot.kurhe?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://www.aesthetx.com/wp-content/uploads/2021/01/1200px-Instagram_logo_2016.svg-1-min.png" alt="Avdhoot Kurhe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avdhoot-kurhe-2669571a0/" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo-2003.png" alt="Avdhoot Kurhe" height="50" width="70" /></a>
+  <a href="https://mobile.twitter.com/ErKurhe" target="blank"><img align="center" src="https://th.bing.com/th/id/R.827ff194eb2ef28f0c9b1b36e8609cb4?rik=AQRYJRJGiQAfgg&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2014%2f08%2ftwitter-logo-2010.png&ehk=hOHFh3khzExIt9Z4%2b0yjAvk4gyK55dphR7Hx%2f3AP0DE%3d&risl=&pid=ImgRaw&r=0" alt="Avdhoot Kurhe" height="80" width="100" /></a>
+  <a href="https://instagram.com/avdhoot.kurhe?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://www.pngkit.com/png/full/1-15172_cropped-instagram-logo-instagram-logo-transparent-for-video.png" alt="Avdhoot Kurhe" height="35" width="95" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -32,6 +32,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avdhoot-Kurhe&layout=compact" alt="Avdhoot" /></p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avdhoot-Kurhe&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/></p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avdhoot-Kurhe&show_icons=true&theme=radial&include_all_commits=true&count_private=true" /> </p>
   
 
