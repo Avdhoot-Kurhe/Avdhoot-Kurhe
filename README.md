@@ -14,8 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/avdhoot-kurhe-2669571a0/" target="blank"><img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo-2003.png" alt="Avdhoot Kurhe" height="50" width="70" /></a>
-  <a href="https://mobile.twitter.com/ErKurhe" target="blank"><img align="center" src="https://th.bing.com/th/id/R.827ff194eb2ef28f0c9b1b36e8609cb4?rik=AQRYJRJGiQAfgg&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2014%2f08%2ftwitter-logo-2010.png&ehk=hOHFh3khzExIt9Z4%2b0yjAvk4gyK55dphR7Hx%2f3AP0DE%3d&risl=&pid=ImgRaw&r=0" alt="Avdhoot Kurhe" height="80" width="100" /></a>
-  <a href="https://instagram.com/avdhoot.kurhe?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://www.pngkit.com/png/full/1-15172_cropped-instagram-logo-instagram-logo-transparent-for-video.png" alt="Avdhoot Kurhe" height="35" width="95" /></a>
+  <a href="https://mobile.twitter.com/ErKurhe" target="blank"><img align="center" src="https://www.nme.com/wp-content/uploads/2017/03/twitter-300x191.png" alt="Avdhoot Kurhe" height="60" width="80" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -23,8 +22,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
- 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="react" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
 </p>
