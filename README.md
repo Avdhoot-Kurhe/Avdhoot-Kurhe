@@ -40,7 +40,7 @@
 
 <h3>My Github Stats:</h3>
 <p align="center">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avdhoot-Kurhe&layout=compact" alt="Avdhoot" />
-    <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avdhoot-Kurhe&show_icons=true&theme=radial&include_all_commits=true&count_private=true" /> </p>
+    <img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avdhoot-Kurhe&layout=compact" alt="Avdhoot" />
+    <img height="180px" width="360px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avdhoot-Kurhe&show_icons=true&theme=radial&include_all_commits=true&count_private=true" /> </p>
   
 
