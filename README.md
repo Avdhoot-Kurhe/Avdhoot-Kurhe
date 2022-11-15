@@ -13,8 +13,8 @@
 
 <h3 >Connect with me:</h3>
 <p >
-<a href="https://www.linkedin.com/in/avdhoot-kurhe-2669571a0/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedn-456987?style=for-the-badge&logoColor=white" alt="Avdhoot Kurhe" height="50" width="90" /></a>
-  <a href="https://mobile.twitter.com/ErKurhe" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-456987?style=for-the-badge&logoColor=white" alt="Avdhoot Kurhe" height="50" width="90" /></a>
+<a href="https://www.linkedin.com/in/avdhoot-kurhe-2669571a0/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedn-456987?style=for-the-badge&logoColor=white" alt="Avdhoot Kurhe" height="30" width="90" /></a>
+  <a href="https://mobile.twitter.com/ErKurhe" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-456987?style=for-the-badge&logoColor=white" alt="Avdhoot Kurhe" height="30" width="90" /></a>
 </p>
 
 <h3>Languages and Tools:</h3>
