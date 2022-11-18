@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about ***HTML, CSS, React, React-Redux, json-Server, git, Javascript, MongoDB, Mongoose***
+- ### 💬 Ask me about ***HTML, CSS, React, React-Redux, json-Server, git, Javascript, MongoDB, Mongoose***
 - 📫 How to reach me **1997avdhoot@gmail.com**
 - Portfolio http://Avdhoot-Kurhe.github.io
 
