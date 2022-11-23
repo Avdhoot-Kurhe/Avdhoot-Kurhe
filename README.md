@@ -12,10 +12,14 @@
 
 
 <h3 >Connect with me:</h3>
+
+
 <p >
 <a href="https://www.linkedin.com/in/avdhoot-kurhe-2669571a0/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedn-456987?style=for-the-badge&logoColor=white" alt="Avdhoot Kurhe" height="30" width="90" /></a>
   <a href="https://mobile.twitter.com/ErKurhe" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-456987?style=for-the-badge&logoColor=white" alt="Avdhoot Kurhe" height="30" width="90" /></a>
 </p>
+
+
 
 <h3>Languages and Tools:</h3>
 <p>
@@ -38,9 +42,11 @@
     <img margin="0 1px 0 0" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
 </p>  
 
+
+
+
 <h3>My Github Stats:</h3>
 <p align="center">
     <img height="180px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avdhoot-Kurhe&layout=compact" alt="Avdhoot" />
-    <img height="180px" width="360px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avdhoot-Kurhe&show_icons=true&theme=radial&include_all_commits=true&count_private=true" /> </p>
-  
-
+    <img height="180px" width="360px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avdhoot-Kurhe&show_icons=true&theme=radial&include_all_commits=true&count_private=true" /> 
+</p>
