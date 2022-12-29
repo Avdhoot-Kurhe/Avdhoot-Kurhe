@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️, I am Avdhoot Kurhe</h1>
-<h3 align="center">A passionate full stack web developerwith hands-on experience in designing, developing, and maintaining projects.</h3>
+<h3 align="center">A passionate full stack web developer with hands-on experience in designing, developing, and maintaining projects.</h3>
 
 <p align="Center"><img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="Avdhoot Kurhe"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Avdhoot-Kurhe&label=Profile%20views&color=0e75b6&style=flat" alt="Avdhoot Kurhe" /> </p>
