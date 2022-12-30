@@ -4,7 +4,7 @@
 <p align="Center"><img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="Avdhoot Kurhe"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Avdhoot-Kurhe&label=Profile%20views&color=0e75b6&style=flat" alt="Avdhoot Kurhe" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **No-SQL(MongoDB)**
 
 - ### 💬 Ask me about ***HTML, CSS, React, React-Redux, json-Server, git, Javascript, MongoDB, MongoDB-Atlas, Mongoose.***
 - 📫 How to reach me **1997avdhoot@gmail.com**
