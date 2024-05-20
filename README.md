@@ -1,12 +1,15 @@
 <h1 align="center">Hi 🙋‍♂️, I am Avdhoot Kurhe</h1>
-<h3 align="center">A passionate full stack web developer with hands-on experience in designing, developing, and maintaining projects.</h3>
 
 <p align="Center"><img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="Avdhoot Kurhe"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Avdhoot-Kurhe&label=Profile%20views&color=0e75b6&style=flat" alt="Avdhoot Kurhe" /> </p>
 
-- 🌱 I’m currently learning **No-SQL(MongoDB)**
+## 🗃️ About Me
+👋 A passionate MERN (MongoDB, Express.js, React.js, Node.js) developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions using the MERN stack.
+In addition to my MERN proficiency, I bring valuable experience from my previous role at CrioDo company, where I worked in Java and Selenium automation testing. During my time there, I honed my skills in developing robust and scalable Java applications while ensuring top-notch quality through efficient Selenium-based testing.
 
-- ### 💬 Ask me about ***HTML, CSS, React, React-Redux, json-Server, git, Javascript, MongoDB, MongoDB-Atlas, Mongoose.***
+💼 What I do:
+Create responsive and interactive front-end interfaces using React.js. Develop responsive front-end interfaces with HTML, CSS, and JavaScript. Create robust and scalable Java applications for Selenium automation testing. Craft RESTful APIs and server-side logic with Node.js and Express.js. Design and optimize databases with MongoDB for efficient data handling. Implement state management and data flow using Redux for seamless user experiences.
+
 - 📫 How to reach me **1997avdhoot@gmail.com**
 - Portfolio http://Avdhoot-Kurhe.github.io
 
